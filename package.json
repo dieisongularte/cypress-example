@@ -1,0 +1,15 @@
+{
+    "name": "cypress-example",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "cypress": "cypress run",
+        "cypress:chrome": "cypress run -b chrome",
+        "cypress:open": "cypress open"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^6.1.0"
+    }
+}
